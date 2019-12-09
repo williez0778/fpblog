@@ -13,19 +13,19 @@ The first is an OVERVIEW Entry - this is the Introduction, it explains the purpo
 There is _only one_ overview entry.
 
 *Context*
-The “Freedom Project” for SEP10 is all about _explain what the freedom project is_.
+The “Freedom Project” for SEP10 is all about _applying what we have learned in out own website creation and presenting it_.
 
-The purpose of this blog is to _explain what is it that you are using the blog for_
+The purpose of this blog is to _Keep record of my journey on this road_.
 
 *Content*
-For my project, I am making a website about _insert your topic_ using Github, HTML, CSS, and(tbd
+For my project, I am making a website about _Serial Killers_ using Github, HTML, CSS, and(tbd
 
-This blog will document the process of independently studying _insert your topic_ and (tbd) and making the website.
+This blog will document the process of independently studying _Serial Killers_ and (tbd) and making the website.
 
 ### Daily Entries
 
 The second type are 'daily' entries. These should be completed each time you work on the Freedom Project,
-whether you are working at school or at home, on research or revision. Doesn't matter. This documents the _process_ involved in its creation.
+whether you are working at school or at home, on research or revision. Doesn't matter. This documents the _research_ involved in its creation.
 Each week there will be a new file to hold the new Blog Entry you write on Freedom Friday. The first file should be called entry1.md.
 
 ## TO DO:
